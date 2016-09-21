@@ -1,0 +1,43 @@
+" colorscheme
+" colorscheme gruvbox
+" colorscheme hybrid_material
+colorscheme gotham256
+" colorscheme two-firewatch
+" colorscheme itg_flat
+" colorscheme OceanicNext
+" colorscheme japanesque
+set background=dark
+syntax on
+" font
+" set encoding=cp932
+" set guifont=Inconsolata_for_Powerline:h11
+" set guifontwide=Myrica_M_for_Powerline:h11
+set guifont=Myrica_M_for_Powerline:h11
+" set guifont=Roboto_Mono_for_Powerline:h14
+" set guifont=Droid_Sans_Mono_for_Powerline:h10
+" set guifont=DejaVu_Sans_Mono_for_Powerline:h10
+" set guifontwide=Myrica_M:h11
+" set guifontwide=Gen_Jyuu_Gothic_L_Monospace_Medium:h10
+" set guifontwide=源柔ゴシックL等幅_Normal:h10:cSHIFTJIS:qDRAFT
+" set encoding=utf-8
+
+set ambiwidth=double
+" set linespace=4
+
+" 縦幅　デフォルトは24
+" set lines=40
+" 横幅　デフォルトは80
+" set columns=120
+" 透明化
+" autocmd GUIEnter * set transparency=240
+" autocmd FocusGained * set transparency=230
+" autocmd FocusLost * set transparency=160
+
+" カーソルを点滅させない
+set guicursor=a:blinkon0
+
+" クリップボードをOSと共有
+set clipboard=unnamed
+
+" 起動時にウィンドウ最大化
+au GUIEnter * simalt ~x
