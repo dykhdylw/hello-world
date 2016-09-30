@@ -1,0 +1,15 @@
+{
+  "connections": {
+    "Connection 1": {
+      "type"    : "oracle",
+      "host"    : "xaddev01.arrow.mew.co.jp",
+      "port"    :  1521,
+      "username": "HDAPPROV",
+      "password": "HDAPPROV",
+      "database": "HDAPPROV",
+      "service" : "HDAPPROV",
+      "encoding": "utf-8"
+    }
+  },
+  "default": "Connection 1"
+}

@@ -1,0 +1,64 @@
+{
+	"auto_match_enabled": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_style": "smooth",
+	// "color_scheme": "Packages/User/Monokai Extended Bright_Material.tmTheme",
+	// "color_scheme": "Packages/User/mandarin-peacock_material.tmTheme",
+	// "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).tmTheme",
+	// "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	// "color_scheme": "Packages/User/Material Oceanic Next.tmTheme",
+	// "color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	// "color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+	// "color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	// "color_scheme": "Packages/Enki Theme/scheme/Enki-Alt.tmTheme",
+	// "color_scheme": "Packages/Materialize/schemes/Material Oceanic Next.tmTheme",
+	// "color_scheme": "Packages/User/Gotham.tmTheme",
+	"draw_centered": false,
+	"enable_table_editor": true,
+	// "font_face": "Myrica M",
+	"font_face": "源柔ゴシックL等幅 Regular",
+	"font_size": 10,
+	"extensions":
+	[
+		"md",
+		"mdown",
+		"txt"
+	],
+	"highlight_line": true,
+	"line_numbers": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"mde.distraction_free_mode":
+	{
+		"mde.keep_centered": true
+	},
+	"mde.keep_centered": false,
+	"mde.lint":
+	{
+		"disable":
+		[
+			"md013"
+		],
+		"md003": "any",
+		"md004": "cyclic",
+		"md007": 0,
+		"md013": 0,
+		"md026": ".,;:!",
+		"md029": "any"
+	},
+	"mde.list_indent_auto_switch_bullet": true,
+	"mde.list_indent_bullets":
+	[
+		"*",
+		"-",
+		"+"
+	],
+	"mde.match_header_hashes": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": true,
+	"wrap_width": 0
+}

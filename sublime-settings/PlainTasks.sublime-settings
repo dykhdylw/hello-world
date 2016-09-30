@@ -1,0 +1,49 @@
+{
+  "open_tasks_bullet": "□", // options: - | ❍ | ❑ | ■ | □ | ☐ | ▪ | ▫ | – | — | ≡ | → | › | [ ]
+  "done_tasks_bullet": "✓", // options: + | ✓ | ✔ | √ | [x]
+  "cancelled_tasks_bullet": "x", // options: x | ✘ | [-]
+  "before_tasks_bullet_margin": 2,
+  "tasks_bullet_space": " ",
+  "date_format": "(%y-%m-%d %H:%M)",
+  "done_tag": true, // related to @cancelled as well
+  "project_tag": true, // if true - postfix archived task with project tag, if false - prefix
+  "archive_name": "Archive:", // make sure it is the unique project name within your todo files
+  "new_on_top": true, // how to sort archived tasks
+
+  // "font_face": "Myrica M",
+  "font_face": "Source Han Code JP L",
+  // "font_face": "Noto Sans CJK JP Light",
+  "font_size": 10,
+  "line_padding_top": 2,
+  "line_padding_bottom": 2,
+  "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).tmTheme",
+  // "color_scheme": "Packages/User/tasks-eighties-dark_Material.hidden-tmTheme",
+    // other bundled schemes:
+    //   Packages/PlainTasks/tasks-dark.hidden-tmTheme
+    //   Packages/PlainTasks/tasks.hidden-tmTheme
+    //   Packages/PlainTasks/tasks-eighties-colored.hidden-tmTheme
+    //   Packages/PlainTasks/tasks-eighties-dark.hidden-tmTheme
+    //   Packages/PlainTasks/tasks-gray.hidden-tmTheme
+    //   Packages/PlainTasks/tasks-monokai.hidden-tmTheme
+    //   Packages/PlainTasks/tasks-solarized-dark.hidden-tmTheme
+    //   Packages/PlainTasks/tasks-solarized-light.hidden-tmTheme
+  // "font_face": "Consolas",
+  "draw_indent_guides": false,
+  "line_numbers": false,
+  "gutter": true,
+  "margin": 1,
+  "tab_size": 4,
+  "translate_tabs_to_spaces": true,
+  "use_tab_stops": false,
+  "match_brackets": false,
+  "fold_buttons": true,
+  "fade_fold_buttons": false,
+  "extensions":
+  [
+    "TODO",
+    "todo",
+    "todolist",
+    "taskpaper",
+    "tasks"
+  ]
+}

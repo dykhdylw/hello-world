@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ConvertToUTF8",
+		"Dark Fusion Color Scheme",
+		"Emmet",
+		"Enki Theme",
+		"gruvbox",
+		"IMESupport",
+		"InputSequence",
+		"InsertDate",
+		"Mandarin Peacock Color Scheme",
+		"MarkdownEditing",
+		"Material Color Scheme",
+		"Material Theme",
+		"Materialize",
+		"Monokai Extended",
+		"Oceanic Next Color Scheme",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PackageResourceViewer",
+		"PlainTasks",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"Sublime Files",
+		"Sublime Tutor",
+		"Table Editor",
+		"Theme - Elementary",
+		"Theme - Hero",
+		"Themr",
+		"TrailingSpaces",
+		"Vintageous"
+	],
+	"repositories":
+	[
+		"https://github.com/kazu1107/InputSequence.git"
+	]
+}
